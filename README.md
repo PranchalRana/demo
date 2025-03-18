@@ -1,3 +1,12 @@
+# demo
+https://github.com/PranchalRana/demo.git
+##description
+a brief overview of the project
+
+## DEMO preview (html & css)
+here is a simple ** html and css** snippet from project
+
+'''html
 <!DOCTYPE html>
 <html lang="en">
 <head>
